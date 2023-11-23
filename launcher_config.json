@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/philippelo/client/releases/download/sa/client-to-update.zip",
-	"clientExecutable": "client - 127.0.0.1"
+	"clientExecutable": "client.exe"
 }
