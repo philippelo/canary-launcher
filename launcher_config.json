@@ -11,11 +11,19 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 {
 	"clientVersion": "13.21.13839",
 	"launcherVersion": "1.0",
-	"replaceFolders": false,
+	"replaceFolders": true,
 	"replaceFolderName": [
-	
+		{
+			"name": "assets"
+		},
+		{
+			"name": "storeimages"
+		},
+		{
+			"name": "bin"
+		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/dudantas/tibia-client/archive/refs/tags/13.21.13839.zip",
 	"clientExecutable": "client - 127.0.0.1"
 }
