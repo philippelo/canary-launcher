@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia\tibia-client-13.21.13839",
+	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/dudantas/tibia-client/archive/refs/tags/13.21.13839.zip",
 	"clientExecutable": "client - 127.0.0.1"
 }
