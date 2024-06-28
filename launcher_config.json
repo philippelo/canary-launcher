@@ -25,5 +25,5 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl": "https://github.com/philippelo/canary-launcher/releases/download/dignot1/client-to-update.zip",
-	"clientExecutable": "DignOT.exe"
+	"clientExecutable": "client.exe"
 }
